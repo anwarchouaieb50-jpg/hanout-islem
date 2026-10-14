@@ -1,0 +1,11 @@
+{
+  "name": "Hanout Anwar",
+  "short_name": "Hanout",
+  "description": "Gestion du stock et des ventes",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "orientation": "portrait"
+}
